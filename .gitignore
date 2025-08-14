@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# PDF temporales
+*.pdf
+*.tmp
+*.temp
+*.log
+
+# VSCode & editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Virtual envs
+.venv/
+env/
+venv/
+ENV/
+
+# Mac / Linux / Windows OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Cache
+.cache/
+*.egg-info/
+pip-wheel-metadata/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
