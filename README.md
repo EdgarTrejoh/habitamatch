@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AltairaGroup/habitamatch/main/assets/habitamatch_logo.png" width="200" alt="HabitaMatch Logo">
-</p>
-
 <h1 align="center">🏠 Calculadora de Capacidad de Pago · HabitaMatch</h1>
 
 <p align="center">
@@ -19,12 +15,12 @@
 
 ## 🧠 ¿Qué hace esta calculadora?
 
-Esta aplicación en Streamlit calcula la capacidad de compra de una persona con base en su:
+Esta aplicación en Streamlit calcula la capacidad de crédito hipotecario de una persona con base en su:
 
 - Ingreso mensual
 - Plazo del crédito
 - Porcentaje destinado
-- Tasa de interés
+- Tasa de interés anual fija
 
 Y permite:
 
@@ -38,7 +34,7 @@ Y permite:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/AltairaGroup/habitamatch.git
+   git clone https://github.com/EdgarTrejoh/habitamatch.git
    cd habitamatch
    ```
 
@@ -75,20 +71,6 @@ HabitaMatch_Calculadora/
 ## 💡 Ideal para:
 
 - Portales inmobiliarios inteligentes
-- Brokers o asesores hipotecarios
 - CRM automatizados con Make
-- Integración con recomendadores de vivienda
-
+- Integración con recomendaciones de vivienda
 ---
-
-## 🤖 Powered by
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AltairaGroup/assets/main/logos/altaira_black.png" height="40">
-  <img src="https://raw.githubusercontent.com/AltairaGroup/assets/main/logos/corevia_white.png" height="40">
-</div>
-
----
-
-📩 ¿Dudas o mejoras?  
-Contáctanos vía [Altaira Group](https://altairagroup.mx) o [Corevia AI](https://corevia.ai) 🚀
